@@ -1,14 +1,12 @@
-# The Lost Pendulum
+# Unity Games
 
-This repository contains the core C# scripts used to create **my first Unity game**, *The Lost Pendulum*. Due to Unity project size limitations and GitHub's file upload constraints, the full project directory could not be committed. However, these scripts represent the majority of the gameplay logic and puzzle mechanics developed during the project.
-
-> Note: The full Unity project is not included, so this repository cannot be cloned and opened directly in the Unity Editor.
+This repository contains my projects within Unity Game engine. I have included scripts and the various assets involved in making a game work. This is the culmination of months of hardwork. Please enjoy viewing my progress, and even playing the game on Unity Play!
 
 ---
 
 ## Play the Game
 
-[**Play The Lost Pendulum on Unity Play**](insert link)
+[**Play The Lost Pendulum on Unity Play**](https://play.unity.com/en/games/085f5adf-edcc-459b-8e1f-32b11564f0af/the-lost-pendulum)
 
 ---
 
